@@ -59,3 +59,25 @@ Full Stack Web Engineer 👨‍💻 | Expert in JavaScript, React.js, Node.js, E
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMahamudul&theme=default)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMahamudul&theme=default)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MMahamudul&theme=default)
+
+## 📬 Contact
+
+I'm always excited to connect, collaborate, or discuss new opportunities.
+
+<p align="left">
+  <a href="mailto:alam.mdmahamudul@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/mohammed-mahamudul-alam-255700144/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" />
+  </a>
+</p>
+
+---
+
+### 🌟 Let’s connect and discuss exciting opportunities!
