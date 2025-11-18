@@ -63,7 +63,7 @@
     </td>
   </tr>
 </table>
-
+---
 <h4 align="left">Github Stats</h4>
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMahamudul&theme=default)
@@ -71,8 +71,8 @@
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMahamudul&theme=default)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMahamudul&theme=default)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MMahamudul&theme=default)
-
-## 📬 Contact
+---
+<h4>Contact</h4>
 
 I'm always excited to connect, collaborate, or discuss new opportunities.
 
