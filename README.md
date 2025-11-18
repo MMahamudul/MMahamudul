@@ -56,3 +56,6 @@ Full Stack Web Engineer 👨‍💻 | Expert in JavaScript, React.js, Node.js, E
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMahamudul&theme=default)
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMahamudul&theme=default)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMahamudul&theme=default)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMahamudul&theme=default)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MMahamudul&theme=default)
