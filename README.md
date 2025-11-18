@@ -1,3 +1,35 @@
+<!-- Professional GitHub README Banner -->
+<div align="center" style="
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, #4e54c8, #8f94fb);
+    color: white;
+">
+
+  <h1 style="margin-bottom: 10px;">MdMahamudul Alam</h1>
+  <h3 style="margin-top: 0;">MERN Stack Developer &bull; MERN Enthusiast</h3>
+
+  <br>
+
+  <!-- Tech Icons (SVG inline so no images needed) -->
+  <p align="center">
+    <!-- React -->
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    &nbsp;&nbsp;
+    <!-- Node.js -->
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    &nbsp;&nbsp;
+    <!-- MongoDB -->
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    &nbsp;&nbsp;
+    <!-- Express -->
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    &nbsp;&nbsp;
+    <!-- JavaScript -->
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </p> 
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mahamudul!;Web+Developer+%7C+Programmer+%7C+Tech+Enthusiast" />
