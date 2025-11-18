@@ -5,7 +5,7 @@
 
 ---
 
-<h3>About Me</h3>
+<h4>About Me</h4>
 
 - 🔭 I’m currently working on **awesome web projects**
 - 🌱 Learning **Next.js, TypeScript & Node.js**
