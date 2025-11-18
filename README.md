@@ -2,9 +2,9 @@
   font-family: Arial, Helvetica, sans-serif;
   padding: 40px 20px;
   border-radius: 14px;
-  background: linear-gradient(135deg, #6a11cb, #2575fc);
-  color: #ffffff;
-  box-shadow: 0 4px 25px rgba(0,0,0,0.15);
+  background: #ffffff;
+  color: #000000;
+  border: 2px solid #00000022;
 ">
 
   <h1 style="margin: 0; font-size: 42px; font-weight: 800;">
@@ -14,19 +14,20 @@
   <p style="
     font-size: 20px;
     margin-top: 8px;
-    font-weight: 500;">
-    Full Stack Developer • JavaScript Enthusiast
+    font-weight: 500;
+    color: #333;">
+    MERN Stack Developer • JavaScript Enthusiast
   </p>
 
   <hr style="
-    width: 80%;
+    width: 70%;
     border: 0;
-    border-top: 1px solid rgba(255,255,255,0.4);
+    border-top: 1px solid #00000033;
     margin: 25px 0;
   ">
 
   <!-- Tech Icons -->
-  <p align="center" style="margin-bottom: 25px;">
+  <p align="center" style="margin-bottom: 25px; filter: grayscale(100%); opacity: 0.95;">
     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     &nbsp;&nbsp;&nbsp;
     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -40,14 +41,15 @@
 
   <!-- Contacts -->
   <p style="font-size: 18px; margin-bottom: 5px;">
-    📧 <a href="mailto:alam.mdmahamudl@helsinki.fi" style="color: #fff; font-weight: 500;">alam.mdmahamudl@helsinki.fi</a>
+    📧 <a href="mailto:alam.mdmahamudul@outlook.com" style="color: #000; font-weight: 600;">alam.mdmahamudul@outlook.com</a>
   </p>
 
   <p style="font-size: 18px;">
-    🌐 <a href="https://www.facebook.com/m.a.biplob/" style="color: #fff; font-weight: 500;">https://www.facebook.com/m.a.biplob/</a>
+    🌐 <a href="https://www.facebook.com/m.a.biplob/" style="color: #000; font-weight: 600;">https://www.facebook.com/m.a.biplob/</a>
   </p>
 
 </div>
+
 
 
 <p align="center">
