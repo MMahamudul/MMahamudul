@@ -1,31 +1,6 @@
-# Hello, There! 👋
-
-## Md Mahamudul Alam
-**Full Stack Web Developer**  
-*JavaScript | React | Node | Express | Next | MongoDB*
-
----
-
-### Tech Stack
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
----
-
-### Profile Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
-
----
-
 ### About Me
 
-Full Stack Web Engineer 👨‍💻 | Expert in JavaScript, React.js, React Native, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌐 | Blockchain Enthusiast & IEEE Researcher 💡
+Full Stack Web Engineer 👨‍💻 | Expert in JavaScript, React.js, Node.js, Express.js | Crafting Scalable Web Apps with MongoDB 🌐
 
 <h4 align="left">Languages and Tools</h4>
 
