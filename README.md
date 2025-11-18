@@ -84,7 +84,7 @@
 Feel free to reach out — I love connecting with new people!  
 
 <p align="left">
-  <a href="mailto:alam.mdmahamudul@outlook.com">
+  <a href="mailto:alam.mdmahamudul@helsinki.fi">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 
