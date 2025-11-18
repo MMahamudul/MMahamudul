@@ -14,7 +14,6 @@ Outside of development, I like exploring new technologies, reading insightful ar
     <td>Languages</td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
     </td>
   </tr>
   <tr>
@@ -24,7 +23,6 @@ Outside of development, I like exploring new technologies, reading insightful ar
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-     
     </td>
   </tr>
   <tr>
@@ -38,7 +36,6 @@ Outside of development, I like exploring new technologies, reading insightful ar
     <td>Database</td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      
     </td>
   </tr>
   <tr>
