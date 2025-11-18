@@ -1,6 +1,18 @@
-### About Me
 
-Full Stack Web Engineer 👨‍💻 | Expert in JavaScript, React.js, Node.js, Express.js | Crafting Scalable Web Apps with MongoDB 🌐
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mahamudul!;Web+Developer+%7C+Programmer+%7C+Tech+Enthusiast" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **awesome web projects**
+- 🌱 Learning **Next.js, TypeScript & Node.js**
+- 💬 Ask me about **JavaScript, React, or MERN Stack**
+- ⚡ Fun fact: **I break things just to rebuild them better 😄**
+
+---
 
 <h4 align="left">Languages and Tools</h4>
 
